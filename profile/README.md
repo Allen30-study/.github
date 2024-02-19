@@ -28,6 +28,7 @@
 
 
 > ### [Week 2: 레포 바로가기](https://github.com/Allen30-study/Week-2)<br>
+>> 함수(Function)<br>
 >> 옵셔널(Optional)<br>
 >> 컬렉션(Collection)<br>
 >> 열거형(Enumeration)<br>
